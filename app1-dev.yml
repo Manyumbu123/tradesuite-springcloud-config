@@ -9,6 +9,6 @@ logging:
   level:
     za.co.standardbank.tradesuiteservice: DEBUG
     org.springframework.web.filter.CommonsRequestLoggingFilter: D§EBUG
-    org.liquibase: DEBUG2
+    org.liquibase: DEBUG
     '[org.hibernate.sql]': DEBUG
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
